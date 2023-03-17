@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Prints alphabet.
+ *
+ * Return: Always 0
+ */
 int main(void)
 {
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
